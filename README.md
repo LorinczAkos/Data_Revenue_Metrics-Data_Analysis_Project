@@ -10,6 +10,7 @@ as I believe a good analyst needs to create a bridge of information that is not 
 The location of the filters were intentionally set to the middle at 'eyes level' I would say so in case of modifying anything they can see the changes in real time,
 therefore have a visual feedback that the data represented indeed has updated itself therefore they can trust it.
 
-Links
+Links:
 Tableau Dashboard: https://public.tableau.com/views/Proiectul2_Revenuemetrics_Lorincz_Akos_DA3_RO_GoIT/PeakGamingStudio2022RevenuePerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Recorder Presentation: https://www.loom.com/share/5a806ccc80284227b106d264d487d27f?sid=38a536c0-c040-4af6-9be3-8415a1b1a84d
+
+Recorded Presentation: https://www.loom.com/share/5a806ccc80284227b106d264d487d27f?sid=38a536c0-c040-4af6-9be3-8415a1b1a84d
